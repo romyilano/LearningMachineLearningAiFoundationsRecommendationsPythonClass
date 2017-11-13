@@ -8,6 +8,8 @@ Fun fun fun!
 
 # PYTHON FOR THE WIN
 
+![Motherf----OG](catherinebreillat460.jpg)
+
 "If you give a chick a fish, she will smell fishy. If you teach her how to fish, she will use python to support women making films."
 
 * [chicks_who_direct/](chicks_who_direct/)
