@@ -1,55 +1,55 @@
-director_id,name,film_total,average_metascore,average_user_score,average_box_office_gross,Commentcomment
-1,Lone Scherfig,3,77,8.6,6500000,
-2,Lucrecia Martel,3,77,8.0,200000,"
+director_id,name,country,imdb,Favorite,film_total,average_metascore,average_user_score,average_box_office_gross,Commentcomment
+1,Lone Scherfig,Denmark,http://www.imdb.com/name/nm0771054/?ref_=fn_al_nm_1,,3,77,8.6,6500000,
+2,Lucrecia Martel,Argentina,http://www.imdb.com/name/nm0551506/?ref_=fn_al_nm_1,,3,77,8,200000,"
 Hailing from Argentina, Martel has helmed three critically-acclaimed films, including her 2001 debut La Ciénaga 75, named the best Latin American film of the past decade by a group of New York critics.
 Best film: The Headless Woman (2009) 81"
-3,Sofia Coppola,3,77,6.3,28300000,"
+3,Sofia Coppola,USA,http://www.imdb.com/name/nm0001068/?ref_=fn_al_nm_1,TRUE,3,77,6.3,28300000,"
 Though her acting career quickly fizzled out, Coppola has been far more successful as a director, with three highly original and widely-praised releases to date. Her fourth feature, Somewhere, arrives in December.
 Best film: Lost in Translation (2003) 89"
-4,Agnès Jaoui,3,76,7.3,1200000,"
+4,Agnès Jaoui,France,http://www.imdb.com/name/nm0418450/?ref_=fn_al_nm_1,,3,76,7.3,1200000,"
 Jaoui has directed three films, each with screenplays co-written by her husband, Jean-Pierre Bacri. An actress as well as a director, the native of France has appeared on screen in each of her own movies, including her latest comedy, Let It Rain 72, and the Oscar-nominated The Taste of Others 78.
 Best film: Look at Me (2005) 79"
-5,Claire Denis,5,75,6.7,100000,"
+5,Claire Denis,France,http://www.imdb.com/name/nm0219136/?ref_=nv_sr_1,,5,75,6.7,100000,"
 While the French director is responsible for some of the most critically-acclaimed films of the past decade, reviewers aren't always fond of her work. Exhibit 1: her 2001 existentialist horror film Trouble Every Day 36.
 Best film: 35 Shots of Rum (2009) 92"
-6,Susanne Bier,4,74,8.3,1600000,"
+6,Susanne Bier,Denmark,http://www.imdb.com/name/nm0081540/?ref_=fn_al_nm_1,,4,74,8.3,1600000,"
 Another top Danish director, Bier received an Oscar nomination for best foreign-language film for After the Wedding. Her 2005 film Brothers was recently remade as a Tobey Maguire film, and in 2007 she directed her first English-language film, the Halle Berry-starring Things We Lost in the Fire 63.
 Best film: After the Wedding (2007) 78"
-7,Lisa Cholodenko,3,73,8.3,2900000,"
+7,Lisa Cholodenko,USA,http://www.imdb.com/name/nm0158966/?ref_=fn_al_nm_1,,3,73,8.3,2900000,"
 Before this year's critical hit The Kids Are All Right, the Los Angeles native directed the indie dramas Laurel Canyon 61 and High Art 73 as well as episodes of Six Feet Under and Homicide: Life on the Street.
 Best film: The Kids Are All Right (2010) 86"
-8,Nicole Holofcener,3,72,7.2,7000000,"
+8,Nicole Holofcener,USA,http://www.imdb.com/name/nm0392237/?ref_=fn_al_nm_1,,3,72,7.2,7000000,"
 Holofcener's films might be formulaic, but it's not your usual formula. Instead, starting with 1996's Walking and Talking 67, each of the writer-director's four releases to date has been an acclaimed, intelligent drama (with elements of comedy) starring Catherine Keener.
 Best film: Please Give (2010) 78"
-9,Mary Harron,3,68,8.1,9100000,"
+9,Mary Harron,Canada,http://www.imdb.com/name/nm0366004/?ref_=fn_al_nm_1,TRUE,3,68,8.1,9100000,"
 In addition to her biopic about Andy Warhol's would-be assassin Valerie Solanas, the Candian filmmaker also adapted Bret Easton Ellis' American Psycho 64 and, more recently, directed The Notorious Bettie Page 64.
 Best film: I Shot Andy Warhol (1996) 75"
-10,Jane Campion,5,67,7.0,14300000,"
+10,Jane Campion,New Zealand,http://www.imdb.com/name/nm0001005/?ref_=fn_al_nm_1,,5,67,7,14300000,"
 The New Zealand native is one of only four women ever nominated for the director Oscar. A director now for over 25 years, Campion's most recent effort was 2009's Bright Star 81, about poet John Keats.
 Best film: The Piano (1993) 89"
-11,Anne Fontaine,4,66,7.7,1800000,
-12,Kathryn Bigelow,3,66,6.5,26300000,
-13,Kasi Lemmons,3,64,8.5,10600000,
-14,Agnieszka Holland,3,63,7.6,14500000,"The Europa Europa director has also worked in American television, directing episodes of Treme and The Wire"
-15,Gillian Armstrong,4,62,8.3,18000000,
-16,Mira Nair,4,62,7.2,12600000,
-17,Deepa Mehta,4,62,8.7,3200000,
-18,Catherine Breillat,7,61,6.3,600000,
-19,Gurinder Chadha,3,59,7.7,13500000,
-20,Rebecca Miller,3,59,6.8,800000,
-21,Catherine Hardwicke,4,59,7.4,69700000,
-22,Julie Taymor,3,58,7.6,22100000,
-23,Katherine Dieckmann,3,58,7.6,100000,
-24,Penny Marshall,4,58,8.0,109100000,
-25,Nancy Meyers,5,57,6.8,145400000,
-26,Vicky Jenson,3,56,7.3,196200000,
-27,Karyn Kusama,3,51,7.0,17200000,
-28,Amy Heckerling,5,50,7.2,96000000,
-29,Anne Fletcher,3,48,6.9,113000000,
-30,Betty Thomas,6,46,6.7,110900000,"One of Hollywood's most commercially successful women directors, Thomas first gained fame as an Emmy-winning actor on the acclaimed 1980s cop series Hill Street Blues"
-31,Nora Ephron,7,44,6.3,101300000,
-32,Penelope Spheeris,3,42,7.9,99400000,"Not included in her score average are a trio of documentaries about the Los Angeles music scene, The Decline of Western Civilization"
-33,Clare Kilner,3,42,6.2,19400000,
-34,Mimi Leder,3,41,6.4,119700000,
-35,Julie Davis,3,37,7.7,400000,
-36,Tamra Davis,3,20,7.3,40400000,
+11,Anne Fontaine,Luxembourg,http://www.imdb.com/name/nm0284774/?ref_=fn_al_nm_1,,4,66,7.7,1800000,
+12,Kathryn Bigelow,USA,http://www.imdb.com/name/nm0000941/?ref_=fn_al_nm_1,,3,66,6.5,26300000,
+13,Kasi Lemmons,USA,http://www.imdb.com/name/nm0501435/?ref_=fn_al_nm_1,,3,64,8.5,10600000,
+14,Agnieszka Holland,Czech Republic,http://www.imdb.com/name/nm0002140/?ref_=fn_al_nm_1,,3,63,7.6,14500000,"The Europa Europa director has also worked in American television, directing episodes of Treme and The Wire"
+15,Gillian Armstrong,Australia,http://www.imdb.com/name/nm0000788/?ref_=fn_al_nm_1,,4,62,8.3,18000000,
+16,Mira Nair,USA,http://www.imdb.com/name/nm0619762/bio?ref_=nm_ov_bio_sm#trademark,,4,62,7.2,12600000,
+17,Deepa Mehta,India,http://www.imdb.com/name/nm0576548/?ref_=fn_al_nm_1,,4,62,8.7,3200000,
+18,Catherine Breillat,France,http://www.imdb.com/name/nm0106924/?ref_=fn_al_nm_1,TRUE,7,61,6.3,600000,
+19,Gurinder Chadha,UK,http://www.imdb.com/name/nm0149446/?ref_=fn_al_nm_1,,3,59,7.7,13500000,
+20,Rebecca Miller,USA,http://www.imdb.com/name/nm0589182/?ref_=fn_al_nm_1,,3,59,6.8,800000,
+21,Catherine Hardwicke,USA,http://www.imdb.com/name/nm0362566/?ref_=fn_al_nm_1,,4,59,7.4,69700000,
+22,Julie Taymor,USA,http://www.imdb.com/name/nm0853380/?ref_=fn_al_nm_1,,3,58,7.6,22100000,
+23,Katherine Dieckmann,USA,http://www.imdb.com/name/nm0225869/?ref_=fn_al_nm_1,,3,58,7.6,100000,
+24,Penny Marshall,USA,http://www.imdb.com/name/nm0001508/?ref_=fn_al_nm_1,,4,58,8,109100000,
+25,Nancy Meyers,USA,http://www.imdb.com/name/nm0583600/?ref_=fn_al_nm_1,,5,57,6.8,145400000,
+26,Vicky Jenson,USA,http://www.imdb.com/name/nm0421776/?ref_=fn_al_nm_1,,3,56,7.3,196200000,
+27,Karyn Kusama,USA,http://www.imdb.com/name/nm0476201/?ref_=fn_al_nm_1,,3,51,7,17200000,
+28,Amy Heckerling,USA,http://www.imdb.com/name/nm0002132/?ref_=fn_al_nm_1,,5,50,7.2,96000000,
+29,Anne Fletcher,USA,http://www.imdb.com/name/nm0281945/?ref_=fn_al_nm_1,,3,48,6.9,113000000,
+30,Betty Thomas,USA,http://www.imdb.com/name/nm0858525/?ref_=fn_al_nm_1,,6,46,6.7,110900000,"One of Hollywood's most commercially successful women directors, Thomas first gained fame as an Emmy-winning actor on the acclaimed 1980s cop series Hill Street Blues"
+31,Nora Ephron,USA,http://www.imdb.com/name/nm0001188/?ref_=fn_al_nm_1,,7,44,6.3,101300000,
+32,Penelope Spheeris,USA,http://www.imdb.com/name/nm0790715/?ref_=fn_al_nm_1,,3,42,7.9,99400000,"Not included in her score average are a trio of documentaries about the Los Angeles music scene, The Decline of Western Civilization"
+33,Clare Kilner,USA,http://www.imdb.com/name/nm0453270/?ref_=fn_al_nm_1,,3,42,6.2,19400000,
+34,Mimi Leder,USA,http://www.imdb.com/name/nm0001460/?ref_=fn_al_nm_1,,3,41,6.4,119700000,
+35,Julie Davis,USA,http://www.imdb.com/name/nm0006874/?ref_=fn_al_nm_1,,3,37,7.7,400000,
+36,Tamra Davis,USA,http://www.imdb.com/name/nm0205542/?ref_=fn_al_nm_1,,3,20,7.3,40400000,
